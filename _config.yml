@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Songyuhui / Site Title"
+title                    : "宋宇辉的个人网站"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
