@@ -30,13 +30,17 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
+* Data analysis
+* Python
+* C program language
+* Certificates/licenses
+  * Third-level Certificate for National Computer 
+  * CET-6
+* Hobbies
+  * Basketball
+  * Jogging
+ 
+ 
 Publications
 ======
   <ul>{% for post in site.publications %}
