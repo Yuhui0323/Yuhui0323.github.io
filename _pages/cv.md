@@ -11,21 +11,22 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Materials Science and Engineering, Southwest Petroleum University, 2016-2020
+* second B.S. in Data science and Big data technology, XiDian University, 2020-2021
+* M.S. in Materials Engineering, Southwest Petroleum University, 2021-2024
+
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2021: Internship Engineer for General Software Development
+  * HuaWei
+  * Duties included: pacth engineering
+  
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2021: Physics Teacher
+  * ZhuoYue Education
+  * Duties included: Teaching physics in middle and high school
+
   
 Skills
 ======
