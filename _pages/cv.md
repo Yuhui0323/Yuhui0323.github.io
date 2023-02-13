@@ -41,12 +41,13 @@ Skills
   * Jogging
  
  
-Publications
+Research experience
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+* 2022.06 - Present：Study on microstructure and wear corrosion properties of nickel-based repair layer of laser cladding without magnetic drill
+* 2021.09 - Present：Prediction and analysis of influencing factors of oil and gas pipeline corrosion under multi-factor synergy
+* 2018.08 - 2019.08：Study on the effect of surface treatment on the corrosion behavior of aluminum alloys in acidic media - person in charge
+ 
+ 
 Talks
 ======
   <ul>{% for post in site.talks %}
