@@ -1,12 +1,11 @@
 ---
 title: "Interpretable machine learning for maximum corrosion depth and influence factor analysis"
-collection: npj Materials Degradation
+collection: publications
 permalink: /publication/npj
 excerpt: 'This paper is about prediction of pitting depth, which uses interpretable machine learning methods to explore the running of the model and the laws of effect of features.'
-date: 2023-2-02
-venue: 'February 02'
+date: February 02 2023
+venue: 'npj Materials Degradation'
 paperurl: 'https://www.nature.com/articles/s41529-023-00324-x'
-
 ---
 <!--/publication/2010-10-01-paper-title-number-2 -->
 **Abstract**
@@ -19,5 +18,6 @@ help understand the predictive logic and the contribution of features. Furthermo
 explains how the features affect the corrosion depth and interact with one another.
 
 **citation**: 'Song, Y., Wang, Q., Zhang, X. et al. Interpretable machine learning for maximum corrosion depth and influence factor analysis. npj Mater Degrad 7, 9 (2023).'
+<br>
 [Download paper here](https://doi.org/10.1038/s41529-023-00324-x)
 
