@@ -5,6 +5,7 @@ permalink: /publication/npj
 excerpt: 'This paper is about prediction of pitting depth, which uses interpretable machine learning methods to explore the running of the model and the laws of effect of features.'
 date: February 02 2023
 venue: 'npj Materials Degradation'
+author_profile: False
 paperurl: 'https://www.nature.com/articles/s41529-023-00324-x'
 ---
 <!--/publication/2010-10-01-paper-title-number-2 -->
