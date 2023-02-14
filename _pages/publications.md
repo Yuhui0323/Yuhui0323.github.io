@@ -1,8 +1,8 @@
 ---
 layout: archive
-title: "PPP"
+title: "publications"
 permalink: /publications/
-author_profile: true
+author_profile: False
 ---
 
 {% if author.googlescholar %}
