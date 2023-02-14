@@ -1,15 +1,21 @@
 ---
-title: "materials degradation"
+title: "Interpretable machine learning for maximum corrosion depth and influence factor analysis"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+date: 2023-2-02
+venue: 'February 02'
+paperurl: 'https://www.nature.com/articles/s41529-023-00324-x'
+citation: 'Song, Y., Wang, Q., Zhang, X. et al. Interpretable machine learning for maximum corrosion depth and influence factor analysis. npj Mater Degrad 7, 9 (2023).'
 ---
-This paper is about the number 3. The number 4 is left for future work.
+This paper employed interpretable methods to uncover the black-box model of the machine learning (ML) for predicting the
+maximum pitting depth (dmax) of oil and gas pipelines. Ensemble learning (EL) is found to have higher accuracy compared with
+several classical ML models, and the determination coefficient of the adaptive boosting (AdaBoost) model reaches 0.96 after
+optimizing the features and hyperparameters. In this work, the running framework of the model was clearly displayed by
+visualization tool, and Shapley Additive exPlanations (SHAP) values were used to visually interpret the model locally and globally to
+help understand the predictive logic and the contribution of features. Furthermore, the accumulated local effect (ALE) successfully
+explains how the features affect the corrosion depth and interact with one another.
 
-[Download paper here]( https://doi.org/10.1038/s41529-023-00324-x)
+[Download paper here](https://doi.org/10.1038/s41529-023-00324-x)
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+Recommended citation: Song, Y., Wang, Q., Zhang, X. et al. Interpretable machine learning for maximum corrosion depth and influence factor analysis. npj Mater Degrad 7, 9 (2023).
