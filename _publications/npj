@@ -1,14 +1,14 @@
 ---
 title: "Interpretable machine learning for maximum corrosion depth and influence factor analysis"
 collection: npj Materials Degradation
-permalink: /
+permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'This paper is about prediction of pitting depth, which uses interpretable machine learning methods to explore the running of the model and the laws of effect of features.'
 date: 2023-2-02
 venue: 'February 02'
 paperurl: 'https://www.nature.com/articles/s41529-023-00324-x'
 
 ---
-
+<!--/publication/2010-10-01-paper-title-number-2 -->
 **Abstract**
   We have employed employed interpretable methods to uncover the black-box model of the machine learning (ML) for predicting the
 maximum pitting depth (dmax) of oil and gas pipelines. Ensemble learning (EL) is found to have higher accuracy compared with
