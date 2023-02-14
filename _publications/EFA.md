@@ -4,6 +4,7 @@ collection: Engineering Failure Analysis
 permalink: /publication/EFA
 excerpt: 'This work systematically reviews these models including their evolution, characteristics, limitations, and performance, and highlights the application of data-driven models. In addition, a ML method database of corrosion prediction for oil and gas pipelines was created by summarizing the pre-processing, input and output parameters and performance metrics of ML models, which provide guidance for rational selection of models. Finally, conclusions and recommendations are presented and provide a broad outlook for future research paths.'
 date: April 04, 2023
+author_profile: False
 venue: 'Engineering Failure Analysis'
 paperurl: 'https://doi.org/10.1016/j.engfailanal.2023.107097'
 
