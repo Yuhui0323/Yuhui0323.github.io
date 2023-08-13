@@ -4,7 +4,7 @@ date: 2023-01-01
 permalink: /posts/2199-01-01-future-post
 collection: posts
 author_profile: False
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: '通常机器学习方法如同一个黑盒子难以理解，然而一系列的解释性帮助知道模型是如何做出预测的'
 
 tags:
   - cool posts
@@ -25,6 +25,8 @@ tags:
 
 <!--Getting started>
 This post will show up by default. To disable scheduling of future posts, edit `config.yml` and set `future: false`. 
+excerpt: 是帖子的预览展示内容
+permalink: 是展开的文件内容
  **加粗**!-->
 
 
