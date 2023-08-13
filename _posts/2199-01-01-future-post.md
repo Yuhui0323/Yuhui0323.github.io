@@ -2,6 +2,10 @@
 title: '模型解释'
 date: 2023-01-01
 permalink: /posts/2012/08/blog-post-4/
+collection: posts
+permalink: /publication/2009-10-01-paper-title-number-1
+excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+
 tags:
   - cool posts
   - category1
