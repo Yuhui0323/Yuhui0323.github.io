@@ -1,8 +1,9 @@
 ---
 title: '模型解释'
 date: 2023-01-01
-permalink: /posts/2199/01/future-post/
+permalink: /posts/2199-01-01-future-post
 collection: posts
+author_profile: False
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 
 tags:
